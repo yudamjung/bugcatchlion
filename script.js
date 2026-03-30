@@ -20,5 +20,6 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
+    moveRandomly();
     setInterval(moveRandomly, 1500);
 });
