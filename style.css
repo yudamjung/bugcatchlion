@@ -1,4 +1,5 @@
 body {
+<<<<<<< HEAD
     background-image : url('background.png');
     background-size: cover;
 }
@@ -49,3 +50,37 @@ button {
     padding: 30px;
     
 }
+=======
+    height: 100vh;
+    margin: 0;
+    overflow: hidden;
+}
+
+#bug1 {
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    transition: all 0.7s ease-in-out;
+}
+
+#bug2 {
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    transition: all 0.7s ease-in-out;
+}
+
+/* #bug3 {
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    transition: all 0.3s ease-in-out;
+}
+
+#bug4 {
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    transition: all 0.3s ease-in-out;
+} */
+>>>>>>> 282320036c958d9a087cead365fc9dd1490a7d4f
