@@ -1,5 +1,3 @@
-// isPaused는 script.js에서 선언하므로 여기서 제거
-
 const bugs = document.querySelectorAll('.bug');
 
 bugs.forEach(bug => {
